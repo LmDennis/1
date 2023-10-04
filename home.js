@@ -1,3 +1,3 @@
 function mostraNome(nome){
-    return nome
+    return nome;
 }
